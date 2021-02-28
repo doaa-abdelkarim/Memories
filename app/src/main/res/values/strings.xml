@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Memories</string>
+    <string name="permission_needed">Permission needed</string>
+    <string name="allow_all_permissions">This app may not work correctly without the requested
+        permissions. Open the app settings screen to modify app permissions</string>
+    <string name="request_permission">Request Permission</string>
+    <string name="permission_is_already_granted">You have already granted this permission!</string>
+    <string name="permission_desc">This permission is required to notify you of your memories
+        when you visit this place again.</string>
+    <string name="package_name">package</string>
+    <string name="ok">ok</string>
+    <string name="add_memory">Add memory ...</string>
+    <string name="content_desc_camera">camera</string>
+    <string name="content_desc_default_memory_photo">default_memory_photo</string>
+    <string name="content_desc_memory_photo">Memory photo</string>
+    <string name="content_desc_delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="created">Created:</string>
+    <string name="define_memory">Please, Define your memory!</string>
+    <string name="delete_all_memories">Delete all memories</string>
+    <string name="delete">Delete All</string>
+    <string name="db_name">memoris_db</string>
+    <string name="empty_recycler">No stored memories yet!</string>
+    <string name="dialog_button_text_color">#000051</string>
+    <string name="location_coordinates">Location:latitude: %1$f longitude: %2$f</string>
+    <string name="service_notification_title">Memories app is running</string>
+    <string name="service_notification_content">Memories app tracking your location every 1 hour</string>
+    <string name="notification_title">Memory</string>
+    <string name="content_desc_previous">Previous</string>
+    <string name="content_desc_Next">Next</string>
+</resources>
