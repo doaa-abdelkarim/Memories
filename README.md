@@ -13,14 +13,14 @@
 
 <img src = "screenshots/1.png" width = 300 /> 
 <br/>
-<img src = "screenshots/2.png" width = 300 /> <img src = "screenshots/3.png" width = 300 />  <img src = "screenshots/4.png" width = 300 />
+<img src = "screenshots/2.png" width = 300 /> <img src = "screenshots/3.png" width = 300 /> <img src = "screenshots/4.png" width = 300 />
 
 <br/>
 <p> App notify you whenever you pass the place where the event was held within a circumference of 500 meters </p>
 <img src = "screenshots/5.png" width = 300 /> <img src = "screenshots/6.png" width = 300 />
 
 <br/>
-<p> App allow you to search your memories </p>
+<p> App allows you to search your memories </p>
 <img src = "screenshots/7.png" width = 300 />
 
 <br/>
